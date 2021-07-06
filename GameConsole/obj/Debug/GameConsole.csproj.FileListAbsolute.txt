@@ -1,0 +1,10 @@
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\bin\Debug\GameConsole.exe.config
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\bin\Debug\GameConsole.exe
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\bin\Debug\GameConsole.pdb
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\bin\Debug\Games.dll
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\bin\Debug\Games.pdb
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\obj\Debug\GameConsole.csprojAssemblyReference.cache
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\obj\Debug\GameConsole.csproj.CopyComplete
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\obj\Debug\GameConsole.exe
+C:\Users\Frank\OneDrive\ElevenFiftyProjects\GoldBadge\Game\GameConsole\obj\Debug\GameConsole.pdb
